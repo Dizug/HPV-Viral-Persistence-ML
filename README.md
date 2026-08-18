@@ -1,3 +1,6 @@
+> ⏳ **CODE EMBARGO NOTICE**
+> This project is currently under peer review for publication as an original scientific article. To comply with journal embargo policies and prevent scooping, the source code and methodology are temporarily withheld. The complete repository will be made fully public immediately upon the article's official publication.
+
 # HPV Viral Persistence Prediction: Data Preprocessing Pipeline 🧬💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
